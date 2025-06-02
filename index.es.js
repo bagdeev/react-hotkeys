@@ -1,7 +1,7 @@
 'use strict';
 
 if (process.env.NODE_ENV === 'production') {
-  module.exports = require('./es/react-hotkeys.production.min.js');
+  module.exports = require('./es/index.es');
 } else {
-  module.exports = require('./es/index.js');
+  module.exports = require('./es/index.es.js');
 }
