@@ -8,6 +8,8 @@
 [![GitHub license](https://img.shields.io/github/license/greena13/react-hotkeys.svg)](https://github.com/greena13/react-hotkeys/blob/master/LICENSE)
 [![Gitter](https://img.shields.io/gitter/room/chrisui/react-hotkeys.svg)](https://gitter.im/chrisui/react-hotkeys)
 
+# Fork with React 19 support for Mintdata Platform
+
 A declarative library for handling hotkeys and focus areas in React applications.
 
 ## Feature Overview
